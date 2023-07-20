@@ -1,6 +1,6 @@
 #include<stdio.h>
 void main()
 {
-    int a=2,b=3;
+    int a=20,b=30;
     printf("Mul is %d",a*b);
 }
