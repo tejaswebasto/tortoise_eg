@@ -1,0 +1,13 @@
+ text.c | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/text.c b/text.c
+index 4a9efd3..94209c9 100644
+--- a/text.c
++++ b/text.c
+@@ -5,4 +5,5 @@ void main()
+     printf("fetch this line");
+     //Check again
+     //Create patch 2
++    //hello world
+ }
